@@ -11,11 +11,7 @@
   }
   
 .footer {
-    background-color: lightgray;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 50px;
+    background-color: transparan;
   }
 
 body {
